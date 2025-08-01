@@ -1,0 +1,21 @@
+names:
+- A
+- V
+- biao
+- blue
+- connected
+- disconnected
+- green
+- kV
+- red
+- yellow
+- cosφ
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: distribution_room
+  url: https://universe.roboflow.com/just-inc-xlg1m/distribution_room/dataset/11
+  version: 11
+  workspace: just-inc-xlg1m
+train: C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/distribution_room/train/images
+val: C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/distribution_room/valid/images

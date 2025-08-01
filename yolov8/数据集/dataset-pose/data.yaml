@@ -1,0 +1,8 @@
+train: C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/dataset-pose/train/images
+val: C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/dataset-pose/valid/images
+
+nc: 5
+kpt_shape: [2, 3]
+flip_idx: [0, 1]
+names: ["zhi","ke1","ke2","ke3", "ke0"]
+

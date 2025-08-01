@@ -1,0 +1,73 @@
+C:\Users\Justinc\Desktop\yolov5-v7.0\yolov5-v7.0\yolov8\utils\Label_Change_Tool-main\wrong_file
+选择了文件夹路径为 C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs
+选择了文件夹路径为 C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/images
+选择了文件夹路径为 C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output
+{'labelname_lineEdit': 'A,V,biao,blue,connected,disconnected,green,kV,red,yellow,cosφ', 'before_comboBox': '精灵标注助手-xml', 'after_comboBox': 'yolo-txt', 'before_label_lineEdit': 'C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs', 'before_pic_lineEdit': 'C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/images', 'after_label_lineEdit': 'C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output'}
+已将文件 1001.jpg 重命名为 1001.jpg
+已将文件 1002.jpg 重命名为 1002.jpg
+已将文件 1003.jpg 重命名为 1003.jpg
+已将文件 1004.jpg 重命名为 1004.jpg
+已将文件 1005.jpg 重命名为 1005.jpg
+已将文件 1006.jpg 重命名为 1006.jpg
+已将文件 1007.jpg 重命名为 1007.jpg
+已将文件 1008.jpg 重命名为 1008.jpg
+已将文件 1009.jpg 重命名为 1009.jpg
+已将文件 1010.jpg 重命名为 1010.jpg
+已将文件 1011.jpg 重命名为 1011.jpg
+已将文件 1012.jpg 重命名为 1012.jpg
+已将文件 1013.jpg 重命名为 1013.jpg
+已将文件 1014.jpg 重命名为 1014.jpg
+已将文件 1015.jpg 重命名为 1015.jpg
+已将文件 1016.jpg 重命名为 1016.jpg
+已将文件 1017.jpg 重命名为 1017.jpg
+已将文件 1018.jpg 重命名为 1018.jpg
+已将文件 1019.jpg 重命名为 1019.jpg
+已将文件 1020.jpg 重命名为 1020.jpg
+已将文件 1021.jpg 重命名为 1021.jpg
+Renamed: 1001.xml -> 1001.xml
+Renamed: 1002.xml -> 1002.xml
+Renamed: 1003.xml -> 1003.xml
+Renamed: 1004.xml -> 1004.xml
+Renamed: 1005.xml -> 1005.xml
+Renamed: 1006.xml -> 1006.xml
+Renamed: 1007.xml -> 1007.xml
+Renamed: 1008.xml -> 1008.xml
+Renamed: 1009.xml -> 1009.xml
+Renamed: 1010.xml -> 1010.xml
+Renamed: 1011.xml -> 1011.xml
+Renamed: 1012.xml -> 1012.xml
+Renamed: 1013.xml -> 1013.xml
+Renamed: 1014.xml -> 1014.xml
+Renamed: 1015.xml -> 1015.xml
+Renamed: 1016.xml -> 1016.xml
+Renamed: 1017.xml -> 1017.xml
+Renamed: 1018.xml -> 1018.xml
+Renamed: 1019.xml -> 1019.xml
+Renamed: 1020.xml -> 1020.xml
+Renamed: 1021.xml -> 1021.xml
+开始解析文件 —— 解析的文件放到C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/精灵标注助手-xmlToyolo-txt
+标签种类为['A', 'V', 'biao', 'blue', 'connected', 'disconnected', 'green', 'kV', 'red', 'yellow', 'cosφ']
+请确保标签的位置和数量正确，程序中无法确认你的标签名字和数量是否对应
+图片路径C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/images->标签路径C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs->转后后存放的路径C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt
+开始转换
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1001.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1001.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1002.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1002.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1003.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1003.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1004.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1004.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1005.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1005.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1006.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1006.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1007.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1007.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1008.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1008.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1009.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1009.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1010.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1010.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1011.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1011.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1012.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1012.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1013.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1013.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1014.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1014.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1015.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1015.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1016.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1016.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1017.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1017.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1018.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1018.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1019.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1019.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1020.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1020.txt
+C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/xml/outputs\1021.xml转化为C:/Users/Justinc/Desktop/yolov5-v7.0/yolov5-v7.0/yolov8/utils/dataset1/output/1719802911_精灵标注助手-xmlToyolo-txt\1021.txt
