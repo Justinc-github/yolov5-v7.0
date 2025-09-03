@@ -49,5 +49,5 @@ seaborn>=0.11.0
 # ultralytics  # HUB https://hub.ultralytics.com
 
 ultralytics~=8.2.35
-flask~=2.2.2
+flask~=3.1.2
 tensorflow~=2.15.0
